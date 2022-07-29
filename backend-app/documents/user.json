@@ -1,0 +1,40 @@
+{
+  "scheduled_banners": [
+    "notification_permissions"
+  ],
+  "short_name": "User",
+  "contact_info": "",
+  "bot": false,
+  "profession": "",
+  "snooze_dnd_start": null,
+  "client_id": "9ea8c3de-349e-11e7-976e-06b24c4507db",
+  "timezone": "UTC",
+  "removed": false,
+  "avatar_id": "c5f14f4da3ee2479a26c65c630c21765",
+  "avatar_urls": {
+    "s35": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s35.jpg",
+    "s60": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s60.jpg",
+    "s195": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s195.jpg",
+    "s640": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s640.jpg"
+  },
+  "id": 10073,
+  "comet_channel": "10073-15c9c64dae211c526c77164d31dd5b6e9eabcdda",
+  "lang": "en",
+  "away_mode": {
+    "date_from": "2018-08-09",
+    "type": "other",
+    "date_to": "2018-08-10"
+  },
+  "first_name": "User",
+  "comet_server": "https://comet.twist.com",
+  "name": "User",
+  "off_days": [],
+  "restricted": false,
+  "default_workspace": 5517,
+  "token": "0123456789abcdef0123456789abcdef01234567",
+  "snooze_dnd_end": null,
+  "snoozed": false,
+  "email": "user@example.com",
+  "setup_pending": false,
+  "snooze_until": -1
+}

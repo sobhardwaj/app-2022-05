@@ -1,0 +1,22 @@
+{
+  "actions": [
+    {
+      "action": "open_url",
+      "url": "https://www.google.com",
+      "type": "action",
+      "button_text": "Open Url Action Btn"
+    },
+    {
+      "action": "prefill_message",
+      "message": "This message is prefilled by an action button",
+      "type": "action",
+      "button_text": "Prefill Message Action Btn"
+    },
+    {
+      "action": "send_reply",
+      "message": "This reply was sent by an action button",
+      "type": "action",
+      "button_text": "Send Reply Action Btn"
+    }
+  ]
+}

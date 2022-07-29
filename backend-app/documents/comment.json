@@ -1,0 +1,26 @@
+{
+  "id": 206113,
+  "content": "OK!",
+  "creator": 10076,
+  "thread_id": 32038,
+  "channel_id": 6984,
+  "workspace_id": 5517,
+  "obj_index": 2,
+  "attachments": [],
+  "recipients": [
+    10073
+  ],
+  "groups": [],
+  "reactions": {
+    "👍": [
+      10076
+    ]
+  },
+  "direct_mentions": [],
+  "direct_group_mentions": [],
+  "deleted": false,
+  "deleted_by": null,
+  "system_message": null,
+  "posted_ts": 1494489787,
+  "last_edited_ts": 1494488709
+}

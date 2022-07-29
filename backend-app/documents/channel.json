@@ -1,0 +1,21 @@
+{
+  "id": 6984,
+  "name": "Channel1",
+  "description": "",
+  "creator": 10073,
+  "user_ids": [
+    2601,
+    10073,
+    10076
+  ],
+  "color": 1,
+  "public": true,
+  "workspace_id": 5517,
+  "archived": false,
+  "created_ts": 1494323074,
+  "use_default_recipients": true,
+  "default_groups": [],
+  "default_recipients": [],
+  "is_favorited": false,
+  "icon": 1
+}

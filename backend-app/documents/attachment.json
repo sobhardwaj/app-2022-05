@@ -1,0 +1,13 @@
+{
+  "attachment_id": "c8f962d3-491b-4a43-92c2-43f7ac076408",
+  "title": "image.png",
+  "url": "https://xxx.cloudfront.net/xxx/as/image.png",
+  "url_type": "image",
+  "file_name": "image.png",
+  "file_size": 21601,
+  "underlying_type": "image/png",
+  "image": "https://xxx.cloudfront.net/xxx/as/image.png",
+  "image_height": 100,
+  "image_width": 100,
+  "upload_state": "uploaded"
+}

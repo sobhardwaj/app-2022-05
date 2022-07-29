@@ -1,0 +1,26 @@
+{
+  "avatar_id": null,
+  "away_mode": {
+    "date_from": "2019-03-19",
+    "type": "vacation",
+    "date_to": "2019-04-01"
+  },
+  "bot": false,
+  "contact_info": "",
+  "date_format": "MM/DD/YYYY",
+  "email": "librarian@doist.com",
+  "feature_flags": [
+    "all"
+  ],
+  "first_name": "Librarian",
+  "id": 200000,
+  "name": "Librarian Doe",
+  "profession": "Writing and keeping docs",
+  "removed": true,
+  "restricted": false,
+  "setup_pending": false,
+  "short_name": "Librarian D.",
+  "time_format": "12",
+  "timezone": "UTC",
+  "user_type": "USER"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13037,
+  "title": null,
+  "private": true,
+  "creator": 10076,
+  "last_message": {
+    "reactions": {},
+    "workspace_id": 1245,
+    "creator": 133822,
+    "deleted": false,
+    "actions": [],
+    "conversation_id": 321441,
+    "last_edited_ts": null,
+    "direct_mentions": [],
+    "direct_group_mentions": [],
+    "system_message": null,
+    "id": 6234671,
+    "attachments": [],
+    "posted_ts": 1533478422,
+    "obj_index": 7,
+    "content": "Hello World!"
+  },
+  "workspace_id": 5517,
+  "user_ids": [
+    10073,
+    10076
+  ],
+  "message_count": 2,
+  "last_obj_index": 1,
+  "snippet": "Hello!",
+  "snippet_creators": [
+    10076,
+    10073
+  ],
+  "last_active_ts": 1497970961,
+  "muted_until_ts": null,
+  "archived": false,
+  "created_ts": 1494330846
+}

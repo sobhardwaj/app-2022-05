@@ -1,0 +1,18 @@
+{
+  "id": 5517,
+  "name": "Workspace1",
+  "default_channel": 6984,
+  "default_conversation": 13030,
+  "creator": 10073,
+  "created_ts": 1494323073,
+  "avatar_id": "c5f14f4da3ee2479a26c65c630c21765",
+  "avatar_urls": {
+    "s35": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s35.jpg",
+    "s60": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s60.jpg",
+    "s195": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s195.jpg",
+    "s640": "https://d10oy3rrrp8hu2.cloudfront.net/c5f14f4da3ee2479a26c65c630c21765_s640.jpg"
+  },
+  "plan": "unlimited"
+}
+// ui called as teams 
+// The type of payment plan, either free or unlimited

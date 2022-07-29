@@ -1,0 +1,17 @@
+{
+  "is_integration": null,
+  "initiator": 2435,
+  "initiator_name": "Jan",
+  "channel_id": 1290,
+  "type": "REFERENCE",
+  "comment_id": 56288719,
+  "initiator_id": 2435,
+  "thread_id": 1409756,
+  "user_id": null,
+  "user_name": null,
+  "title": null,
+  "old_title": null,
+  "new_title": null,
+  "channel_name": "My Channel",
+  "integration_name": null
+}

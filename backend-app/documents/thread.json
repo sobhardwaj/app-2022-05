@@ -1,0 +1,35 @@
+{
+  "actions": [],
+  "attachments": [],
+  "channel_id": 6984,
+  "comment_count": 3,
+  "content": "Let's discuss the Twist API...",
+  "creator": 10073,
+  "direct_group_mentions": [],
+  "direct_mentions": [],
+  "groups": [],
+  "id": 32038,
+  "last_edited_ts": 1494488709,
+  "last_obj_index": 2,
+  "last_updated_ts": 1494500713,
+  "muted_until_ts": null,
+  "participants": [
+    10073,
+    10076
+  ],
+  "pinned": true,
+  "pinned_ts": 1494488710,
+  "posted_ts": 1494488709,
+  "reactions": {},
+  "recipients": [
+    10076
+  ],
+  "snippet": "OK!",
+  "snippet_creator": 10073,
+  "starred": false,
+  "system_message": null,
+  "title": "Thread1",
+  "workspace_id": 5517,
+  "is_archived": false,
+  "in_inbox": false
+}
